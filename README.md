@@ -4,3 +4,11 @@ This is a sample application which uses [react-snap](https://github.com/stereobo
 library to pre-render react application.
 
 You can read related post on [this link]()
+
+Instructions to install:
+
+````
+npm install
+
+npm run build
+````
